@@ -35,7 +35,7 @@ def create_GUI_layout(window):
                             "Youtube Downloader v1.0\n"
                             'Developed by : Vedant Raghuwanshi\n'
                             'Python Version: 3.7.3'
-                            'Libraries:Tkinter v4.2.0, Pytube v9.5.0\n'
+                            'Libraries:Tkinter v8.6.0, Pytube v9.5.0\n'
                             'Contact: raghuvedant00@gmail.com\n'
                             'Github: 007vedant\n'
                             'hackerrank/hackerearth/codechef: perplexed_v')
