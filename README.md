@@ -25,7 +25,7 @@ contact: raghuvedant00@gmail.com
          https://www.hackerrank.com/perplexed_v
 
        
-![Image of Youtube Downloade App](https://octodex.github.com/images/yaktocat.png)
+![Image of Youtube Downloade App](https://github.com/007vedant/Youtube-Downloader-v1.0/blob/master/SAVE_20200225_191748.jpg)
 
 
 
